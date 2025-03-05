@@ -1,15 +1,4 @@
-<style>
-  h2, h3 {
-    color: #800080; /* Ungu */
-    font-family: 'Poppins', sans-serif;
-  }
-  p, li {
-    color: #A020F0; /* Ungu terang */
-    font-family: 'Poppins', sans-serif;
-  }
-</style>
-
-# 📚 Mata Kuliah Informatika
+## 📚 Mata Kuliah Informatika
 
 ## 📌 Semester 1
 Semester pengenalan dasar dalam dunia informatika, mencakup pemrograman, matematika, dan konsep dasar sistem informasi.

@@ -1,5 +1,7 @@
 <div align="center">
+  
 ## <span style="font-family: 'Poppins', sans-serif; color: #8A2BE2;">📚 Mata Kuliah Informatika</span>
+
 </div>
 
 ## 📌 Semester 1:

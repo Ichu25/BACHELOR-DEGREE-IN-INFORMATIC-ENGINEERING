@@ -1,7 +1,8 @@
+<div>center;
+</div>
 ## 📚 Mata Kuliah Informatika
 
-## 📌 Semester 1
-Semester pengenalan dasar dalam dunia informatika, mencakup pemrograman, matematika, dan konsep dasar sistem informasi.
+## 📌 Semester 1:
 - **Dasar Pemrograman** - Pengenalan logika pemrograman dan sintaks dasar.
 - **Fisika Teknik** - Konsep fisika yang diterapkan dalam teknologi.
 - **Kalkulus** - Dasar matematika untuk analisis numerik.
@@ -10,8 +11,7 @@ Semester pengenalan dasar dalam dunia informatika, mencakup pemrograman, matemat
 - **Probabilitas dan Statistika** - Dasar analisis data dalam pemrograman.
 - **Sistem Informasi Management** - Konsep manajemen dalam sistem informasi.
 
-## 📌 Semester 2
-Pendalaman konsep pemrograman dan pemahaman arsitektur komputer.
+## 📌 Semester 2:
 - **Pendidikan Pancasila** - Studi tentang ideologi dan nilai-nilai kebangsaan.
 - **Algoritma dan Struktur Data** - Teknik pemecahan masalah dengan algoritma.
 - **Aljabar Linier** - Konsep matematika dalam komputasi.
@@ -20,8 +20,7 @@ Pendalaman konsep pemrograman dan pemahaman arsitektur komputer.
 - **Organisasi dan Arsitektur Data** - Struktur dan cara kerja komputer.
 - **Pemrograman Berorientasi Objek** - Konsep OOP dalam pengembangan perangkat lunak.
 
-## 📌 Semester 3
-Fokus pada pengembangan antarmuka dan komunikasi antara manusia dan komputer.
+## 📌 Semester 3:
 - **Grafika Komputer** - Dasar pembuatan visual digital.
 - **Human-Computer Interaction** - Interaksi pengguna dengan sistem komputer.
 - **Jaringan Komputer** - Konsep jaringan dan komunikasi data.
@@ -31,8 +30,7 @@ Fokus pada pengembangan antarmuka dan komunikasi antara manusia dan komputer.
 - **Pengantar Sistem Digital** - Konsep sistem digital.
 - **Sistem Operasi** - Dasar kerja sistem operasi.
 
-## 📌 Semester 4
-Pendalaman pada kecerdasan buatan dan pemrograman berbasis platform.
+## 📌 Semester 4:
 - **Bahasa Indonesia** - Teknik komunikasi ilmiah.
 - **Bahasa Inggris II** - Penguatan bahasa Inggris dalam konteks akademik.
 - **Etika Keprofesian** - Tanggung jawab etis dalam dunia IT.
@@ -42,8 +40,7 @@ Pendalaman pada kecerdasan buatan dan pemrograman berbasis platform.
 - **Pengolahan Citra Digital** - Teknik manipulasi gambar digital.
 - **Riset Operasional** - Optimasi dalam sistem dan teknologi.
 
-## 📌 Semester 5
-Pengembangan teknologi terkini seperti IoT, keamanan data, dan pemrosesan bahasa alami.
+## 📌 Semester 5:
 - **Analisis dan Desain Perangkat Lunak** - Teknik perancangan software.
 - **Cloud Computing** - Teknologi komputasi awan.
 - **Computer Vision** - Pemrosesan gambar dengan AI.
@@ -53,8 +50,7 @@ Pengembangan teknologi terkini seperti IoT, keamanan data, dan pemrosesan bahasa
 - **Pemrosesan Bahasa Alami** - Pengolahan bahasa manusia dalam AI.
 - **Web Programming** - Pengembangan website modern.
 
-## 📌 Semester 6
-Pendalaman dalam pembelajaran mesin dan manajemen proyek teknologi informasi.
+## 📌 Semester 6:
 - **Data Mining** - Eksplorasi dan analisis data.
 - **Deep Learning** - Teknik AI yang lebih mendalam.
 - **Kewarganegaraan** - Pemahaman nilai kebangsaan dalam teknologi.
@@ -64,12 +60,10 @@ Pendalaman dalam pembelajaran mesin dan manajemen proyek teknologi informasi.
 - **Pembelajaran Mesin** - Machine learning dan aplikasinya.
 - **Penjaminan Kualitas Perangkat Lunak** - Quality assurance dalam software development.
 
-## 📌 Semester 7
-Penerapan ilmu dalam dunia industri melalui magang dan proyek perangkat lunak.
+## 📌 Semester 7:
 - **Praktek Kerja Lapangan** - Pengalaman kerja di industri.
 - **Proposal Tugas Akhir** - Penyusunan proposal skripsi.
 - **Proyek Perangkat Lunak** - Pengembangan software nyata.
 
-## 📌 Semester 8
-Fokus utama dalam penyelesaian skripsi.
+## 📌 Semester 8:
 - **Skripsi** - Penelitian akhir untuk memperoleh gelar sarjana.

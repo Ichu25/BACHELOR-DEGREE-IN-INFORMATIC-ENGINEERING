@@ -1,6 +1,6 @@
-<div>center;
+<div align="center">
+## <span style="font-family: 'Poppins', sans-serif; color: #8A2BE2;">📚 Mata Kuliah Informatika</span>
 </div>
-## 📚 Mata Kuliah Informatika
 
 ## 📌 Semester 1:
 - **Dasar Pemrograman** - Pengenalan logika pemrograman dan sintaks dasar.

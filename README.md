@@ -1,71 +1,105 @@
 <div align="center">
-  
-## <span style="font-family: 'Poppins', sans-serif; color: #8A2BE2;">📚 Mata Kuliah Informatika</span>
+
+# 🎓 Catatan Kuliah Saya  
+📌 *Perjalanan Akademik di Informatika*  
 
 </div>
 
-## 📌 Semester 1:
-- **Dasar Pemrograman** - Pengenalan logika pemrograman dan sintaks dasar.
-- **Fisika Teknik** - Konsep fisika yang diterapkan dalam teknologi.
-- **Kalkulus** - Dasar matematika untuk analisis numerik.
-- **Pendidikan Agama Islam** - Pemahaman nilai-nilai Islam dalam kehidupan akademik.
-- **Pengantar Informatika** - Gambaran umum tentang dunia informatika.
-- **Probabilitas dan Statistika** - Dasar analisis data dalam pemrograman.
-- **Sistem Informasi Management** - Konsep manajemen dalam sistem informasi.
+---
 
-## 📌 Semester 2:
-- **Pendidikan Pancasila** - Studi tentang ideologi dan nilai-nilai kebangsaan.
-- **Algoritma dan Struktur Data** - Teknik pemecahan masalah dengan algoritma.
-- **Aljabar Linier** - Konsep matematika dalam komputasi.
-- **Bahasa Inggris I** - Peningkatan kemampuan bahasa Inggris untuk akademik.
-- **Basis Data** - Pengelolaan dan desain sistem database.
-- **Organisasi dan Arsitektur Data** - Struktur dan cara kerja komputer.
-- **Pemrograman Berorientasi Objek** - Konsep OOP dalam pengembangan perangkat lunak.
+## ✨ Tentang  
+Selamat datang di **Catatan Kuliah Saya**, sebuah dokumentasi perjalanan akademik saya di bidang **Informatika**.  
+Di sini, Anda dapat menemukan daftar mata kuliah dari semester pertama hingga akhir, serta berbagai pengalaman akademik lainnya.  
 
-## 📌 Semester 3:
-- **Grafika Komputer** - Dasar pembuatan visual digital.
-- **Human-Computer Interaction** - Interaksi pengguna dengan sistem komputer.
-- **Jaringan Komputer** - Konsep jaringan dan komunikasi data.
-- **Kewirausahaan** - Dasar bisnis dalam dunia teknologi.
-- **Logika Matematika** - Logika dalam pemrograman.
-- **Metode Penelitian** - Teknik riset dalam informatika.
-- **Pengantar Sistem Digital** - Konsep sistem digital.
-- **Sistem Operasi** - Dasar kerja sistem operasi.
+---
 
-## 📌 Semester 4:
-- **Bahasa Indonesia** - Teknik komunikasi ilmiah.
-- **Bahasa Inggris II** - Penguatan bahasa Inggris dalam konteks akademik.
-- **Etika Keprofesian** - Tanggung jawab etis dalam dunia IT.
-- **Kecerdasan Buatan** - Dasar-dasar AI dalam pemrograman.
-- **Kuliah Kerja Nyata** - Implementasi ilmu dalam masyarakat.
-- **Pemrograman Berbasis Platform** - Pengembangan aplikasi lintas platform.
-- **Pengolahan Citra Digital** - Teknik manipulasi gambar digital.
-- **Riset Operasional** - Optimasi dalam sistem dan teknologi.
+## 📚 Semester  
+Berikut adalah daftar mata kuliah yang telah saya pelajari selama perkuliahan:  
 
-## 📌 Semester 5:
-- **Analisis dan Desain Perangkat Lunak** - Teknik perancangan software.
-- **Cloud Computing** - Teknologi komputasi awan.
-- **Computer Vision** - Pemrosesan gambar dengan AI.
-- **Internet of Things** - Konsep teknologi IoT.
-- **Keamanan Data dan Informasi** - Proteksi data dan sistem.
-- **Komputer Paralel dan Terdistribusi** - Pemrosesan komputasi paralel.
-- **Pemrosesan Bahasa Alami** - Pengolahan bahasa manusia dalam AI.
-- **Web Programming** - Pengembangan website modern.
+### 📌 Semester 1  
+✅ **Dasar Pemrograman** – Logika dan sintaks dasar pemrograman.  
+✅ **Fisika Teknik** – Konsep fisika dalam teknologi.  
+✅ **Kalkulus** – Analisis numerik dalam matematika.  
+✅ **Pendidikan Agama Islam** – Nilai-nilai Islam dalam akademik.  
+✅ **Pengantar Informatika** – Gambaran dunia informatika.  
+✅ **Probabilitas & Statistika** – Analisis data dalam pemrograman.  
+✅ **Sistem Informasi Manajemen** – Manajemen dalam sistem informasi.  
 
-## 📌 Semester 6:
-- **Data Mining** - Eksplorasi dan analisis data.
-- **Deep Learning** - Teknik AI yang lebih mendalam.
-- **Kewarganegaraan** - Pemahaman nilai kebangsaan dalam teknologi.
-- **Manajemen Proyek Teknologi Informasi** - Pengelolaan proyek IT.
-- **Matematika Diskrit** - Konsep matematika dalam komputasi.
-- **Mobile Computing** - Pengembangan aplikasi mobile.
-- **Pembelajaran Mesin** - Machine learning dan aplikasinya.
-- **Penjaminan Kualitas Perangkat Lunak** - Quality assurance dalam software development.
+### 📌 Semester 2  
+✅ **Pendidikan Pancasila** – Studi ideologi dan kebangsaan.  
+✅ **Algoritma & Struktur Data** – Teknik pemecahan masalah dengan algoritma.  
+✅ **Aljabar Linier** – Matematika dalam komputasi.  
+✅ **Bahasa Inggris I** – Penguatan kemampuan akademik.  
+✅ **Basis Data** – Pengelolaan dan desain database.  
+✅ **Organisasi & Arsitektur Komputer** – Struktur dan cara kerja komputer.  
+✅ **Pemrograman Berorientasi Objek** – Konsep OOP dalam pengembangan software.  
 
-## 📌 Semester 7:
-- **Praktek Kerja Lapangan** - Pengalaman kerja di industri.
-- **Proposal Tugas Akhir** - Penyusunan proposal skripsi.
-- **Proyek Perangkat Lunak** - Pengembangan software nyata.
+### 📌 Semester 3  
+✅ **Grafika Komputer** – Dasar visual digital.  
+✅ **Human-Computer Interaction** – Desain interaksi pengguna.  
+✅ **Jaringan Komputer** – Konsep jaringan dan komunikasi data.  
+✅ **Kewirausahaan** – Dasar bisnis dalam teknologi.  
+✅ **Logika Matematika** – Logika dalam pemrograman.  
+✅ **Metode Penelitian** – Teknik riset di informatika.  
+✅ **Pengantar Sistem Digital** – Konsep sistem digital.  
+✅ **Sistem Operasi** – Cara kerja OS.  
 
-## 📌 Semester 8:
-- **Skripsi** - Penelitian akhir untuk memperoleh gelar sarjana.
+### 📌 Semester 4  
+✅ **Bahasa Indonesia** – Teknik komunikasi ilmiah.  
+✅ **Bahasa Inggris II** – Penguatan dalam konteks akademik.  
+✅ **Etika Keprofesian** – Tanggung jawab etis dalam IT.  
+✅ **Kecerdasan Buatan** – Dasar AI dalam pemrograman.  
+✅ **Kuliah Kerja Nyata** – Implementasi ilmu di masyarakat.  
+✅ **Pemrograman Berbasis Platform** – Aplikasi lintas platform.  
+✅ **Pengolahan Citra Digital** – Teknik manipulasi gambar.  
+✅ **Riset Operasional** – Optimasi sistem dan teknologi.  
+
+### 📌 Semester 5  
+✅ **Analisis & Desain Perangkat Lunak** – Teknik perancangan software.  
+✅ **Cloud Computing** – Teknologi komputasi awan.  
+✅ **Computer Vision** – Pemrosesan gambar dengan AI.  
+✅ **Internet of Things** – Teknologi IoT.  
+✅ **Keamanan Data & Informasi** – Proteksi data & sistem.  
+✅ **Komputer Paralel & Terdistribusi** – Pemrosesan paralel.  
+✅ **Pemrosesan Bahasa Alami** – NLP & AI.  
+✅ **Web Programming** – Pengembangan website modern.  
+
+### 📌 Semester 6  
+✅ **Data Mining** – Eksplorasi & analisis data.  
+✅ **Deep Learning** – AI tingkat lanjut.  
+✅ **Kewarganegaraan** – Nilai kebangsaan dalam teknologi.  
+✅ **Manajemen Proyek TI** – Pengelolaan proyek IT.  
+✅ **Matematika Diskrit** – Matematika dalam komputasi.  
+✅ **Mobile Computing** – Aplikasi mobile.  
+✅ **Machine Learning** – Konsep pembelajaran mesin.  
+✅ **Quality Assurance Software** – Jaminan kualitas software.  
+
+### 📌 Semester 7  
+✅ **Praktik Kerja Lapangan** – Pengalaman kerja industri.  
+✅ **Proposal Tugas Akhir** – Penyusunan skripsi.  
+✅ **Proyek Perangkat Lunak** – Pengembangan software nyata.  
+
+### 📌 Semester 8  
+✅ **Skripsi** – Penelitian akhir untuk gelar sarjana.  
+
+---
+
+## 🎖 Penghargaan & Pencapaian  
+🏆 **Juara 1 Lomba Coding** – Kompetisi tingkat universitas.  
+📜 **Sertifikat Magang** – Program magang di perusahaan teknologi.  
+
+Lihat detail penghargaan saya di website ini.  
+
+---
+
+## 📍 Lokasi Kampus  
+📍 [Universitas Nurul Jadid](https://www.unuja.ac.id)  
+
+---
+
+## 🔗 **Tautan Website**  
+🌐 **[Kunjungi Website](#)** – Jelajahi perjalanan akademik saya secara lebih interaktif!  
+
+---
+
+💡 **Catatan:** README ini dibuat untuk mendokumentasikan perjalanan saya dalam dunia akademik. Terima kasih telah berkunjung! 🚀

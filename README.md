@@ -85,15 +85,15 @@ Berikut adalah daftar mata kuliah yang telah saya pelajari selama perkuliahan:
 ---
 
 ## 🎖 Penghargaan & Pencapaian  
-🏆 **Juara 1 Lomba Coding** – Kompetisi tingkat universitas.  
-📜 **Sertifikat Magang** – Program magang di perusahaan teknologi.  
+🏆 **Juara 1 Lomba Tidur**
+📜 **Program magang di perusahaan teknologi**
 
 Lihat detail penghargaan saya di website ini.  
 
 ---
 
 ## 📍 Lokasi Kampus  
-📍 [Universitas Nurul Jadid](https://www.unuja.ac.id)  
+[Universitas Nurul Jadid](https://www.unuja.ac.id)  
 
 ---
 
@@ -102,4 +102,8 @@ Lihat detail penghargaan saya di website ini.
 
 ---
 
+<div align="center">
+  
 💡 **Catatan:** README ini dibuat untuk mendokumentasikan perjalanan saya dalam dunia akademik. Terima kasih telah berkunjung! 🚀
+
+</div>

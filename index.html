@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catatan Kuliah Saya</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800 font-inter">
+    
+    <header class="fixed top-0 w-full z-50 bg-blue-900 text-white shadow-lg">
+        <div class="container mx-auto flex items-center justify-between p-4">
+            <div class="text-2xl font-bold">
+                <a href="#">Catatan Kuliah Saya</a>
+            </div>
+            <nav class="hidden md:flex space-x-6">
+                <a href="#beranda" class="hover:text-gray-300">Beranda</a>
+                <a href="#semester" class="hover:text-gray-300">Semester</a>
+                <a href="#organisasi" class="hover:text-gray-300">Organisasi</a>
+                <a href="#penghargaan" class="hover:text-gray-300">Penghargaan</a>
+                <a href="#kampus" class="hover:text-gray-300">Kampus</a>
+            </nav>
+            <button class="md:hidden text-2xl" id="menu-toggle"><i class="fas fa-bars"></i></button>
+        </div>
+    </header>
+    
+    <section id="beranda" class="relative h-screen flex items-center justify-center text-white text-center">
+        <div class="absolute inset-0 bg-cover bg-center opacity-50" style="background-image: url('https://source.unsplash.com/1600x900/?university,student');"></div>
+        <div class="absolute inset-0 bg-gradient-to-b from-blue-800 to-transparent"></div>
+        <div class="relative z-10 max-w-2xl">
+            <h1 class="text-5xl font-bold">Selamat Datang di Catatan Kuliah Saya</h1>
+            <p class="text-lg mt-3">Jelajahi perjalanan akademik saya dari semester pertama hingga akhir.</p>
+            <a href="#semester" class="mt-5 inline-block bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg">Lihat Semester</a>
+        </div>
+    </section>
+    
+    <section id="semester" class="py-16 bg-white text-center">
+        <div class="container mx-auto px-6">
+            <h2 class="text-4xl font-bold text-gray-800 mb-8">Semester</h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4">
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">1</button>
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">2</button>
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">3</button>
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">4</button>
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">5</button>
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">6</button>
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">7</button>
+                <button class="semester-btn bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md">8</button>
+            </div>
+        </div>
+    </section>
+    
+    <section id="organisasi" class="py-16 bg-gray-50 text-center">
+        <div class="container mx-auto px-6">
+            <h2 class="text-4xl font-bold text-gray-800 mb-8">Organisasi & Kegiatan</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold">Himpunan Mahasiswa</h3>
+                    <p class="mt-2 text-gray-600">Terlibat aktif dalam kegiatan himpunan mahasiswa.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold">Komunitas Pengembang</h3>
+                    <p class="mt-2 text-gray-600">Bergabung dengan komunitas teknologi untuk meningkatkan skill.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="penghargaan" class="py-16 bg-gray-50">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-4xl font-bold text-gray-800 mb-8">Prestasi & Penghargaan</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-white p-6 rounded-lg shadow-lg text-left m-2">
+                    <h3 class="text-xl font-bold text-gray-800">Juara 1 Lomba Coding</h3>
+                    <p class="text-gray-600 mt-2">Memenangkan juara 1 lomba coding tingkat universitas.</p>
+                    <a href="https://www.contoh-lomba.com" target="_button" class="text-blue-500 mt-2 block">Lihat Detail</a>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg text-left m-2">
+                    <h3 class="text-xl font-bold text-gray-800">Sertifikat Magang</h3>
+                    <p class="text-gray-600 mt-2">Menyelesaikan program magang di perusahaan teknologi.</p>
+                    <a href="https://www.contoh-magang.com" target="_blank" class="text-blue-500 mt-2 block">Lihat Sertifikat</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="kampus" class="py-16 bg-gray-50">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-4xl font-bold text-gray-800 mb-8">Lokasi Kampus</h2>
+            <div class="grid grid-cols-1">
+                <div class="bg-white p-6 rounded-lg shadow-lg text-left m-2">
+                    <img src="https://source.unsplash.com/800x600/?university" alt="Universitas Contoh" class="rounded-lg mb-4 h-48 w-full object-cover">
+
+    <footer class="bg-blue-900 text-white text-center py-6 mt-16">
+        <p class="text-lg">&copy; 2025 Catatan Kuliah Saya. All Rights Reserved.</p>
+        <div class="mt-2">
+            <a href="#" class="mx-2 hover:text-gray-300"><i class="fab fa-facebook"></i></a>
+            <a href="#" class="mx-2 hover:text-gray-300"><i class="fab fa-twitter"></i></a>
+            <a href="#" class="mx-2 hover:text-gray-300"><i class="fab fa-instagram"></i></a>
+        </div>
+    </footer>
+    
+    <script>
+        document.getElementById('menu-toggle').addEventListener('click', function() {
+            alert('Menu belum diimplementasikan');
+        });
+    </script>
+</body>
+</html>
